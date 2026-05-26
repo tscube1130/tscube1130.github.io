@@ -1,5 +1,5 @@
-title: "T S S Sreeja"
-name: "T S S Sreeja"
+title: "T S S SREEJA"
+name: "T S S SREEJA"
 description: "CS Undergrad @ IIT Guwahati | Systems & Low-Latency Programming"
 url: "https://tscube1130.github.io"
 baseurl: ""
@@ -7,16 +7,13 @@ baseurl: ""
 author:
   name: "T S S Sreeja"
   avatar: "/assets/images/photo.jpg"
-  bio: "CS Undergrad, IIT Guwahati. I build things close to the metal — compilers, matching engines, processors. Open to opportunities."
+  bio: "CSE Undergrad, IIT Guwahati. I build things close to the metal — compilers, matching engines, processors. Open to opportunities."
   location: "Guwahati, India"
   email: "sreejathallam3011@gmail.com"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/tscube1130"
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://linkedin.com/in/tscube1130"
     - label: "Institute Email"
       icon: "fas fa-fw fa-envelope"
       url: "mailto:t.sreeja@iitg.ac.in"
@@ -25,7 +22,7 @@ author:
       url: "mailto:sreejathallam3011@gmail.com"
 
 remote_theme: "mmistakes/minimal-mistakes@4.26.2"
-minimal_mistakes_skin: "dark"
+minimal_mistakes_skin: "contrast"
 
 plugins:
   - jekyll-feed
@@ -61,6 +58,9 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/tscube1130"
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://linkedin.com/in/tscube1130"
+    - label: "Institute Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:t.sreeja@iitg.ac.in"
+    - label: "Personal Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:sreejathallam3011@gmail.com"
